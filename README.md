@@ -3,7 +3,8 @@ Je suis actuellement en train de me former pour devenir une pro de la création 
 J'ai une véritable passion pour le développement web et je suis enthousiaste à l'idée de découvrir de nouvelles technologies et de nouveaux langages de programmation.
 
 
-⚙️  .html, .css, .JS, .React,
+⚙️  .html, ![Static Badge](https://img.shields.io/badge/Html?style=social&logoColor=pink)
+.css, .JS, .React,
 💅 Inspiration : Pinterest, Canva
 💬 Faites moi un petit coucou
 <!---
