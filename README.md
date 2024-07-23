@@ -5,7 +5,9 @@ J'ai une véritable passion pour le développement web et je suis enthousiaste �
 
 ⚙️  .html, ![Static Badge](https://img.shields.io/badge/Html?style=social&logoColor=pink)
 .css, .JS, .React,
-💅 Inspiration : Pinterest, Canva
+💅 Inspiration :
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+Pinterest, Canva
 💬 Faites moi un petit coucou
 <!---
 MP4code/MP4code is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
